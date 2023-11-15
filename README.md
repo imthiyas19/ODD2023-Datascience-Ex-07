@@ -138,5 +138,6 @@ print ("R2     :",r2_score(y_test,target_predict))
 ![283035868-0ab03c4c-89d1-417a-8ba7-1adc7f5443a8](https://github.com/imthiyas19/ODD2023-Datascience-Ex-07/assets/120353416/7f74fd37-8d5e-4c71-ab4d-1fa4a8132fc1)
 
 
-
+### RESULT:
+Thus, the various feature selection techniques have been performed on a given dataset successfully.
 
